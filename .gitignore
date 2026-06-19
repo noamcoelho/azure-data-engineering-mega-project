@@ -247,3 +247,10 @@ connection_strings.json
 *.tfstate.*
 *.tfvars
 !*.tfvars.example
+
+# ========================
+# Bancos de dados locais
+# ========================
+*.db
+*.sqlite
+*.sqlite3
